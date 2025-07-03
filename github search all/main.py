@@ -16,4 +16,4 @@ def get_user_info(username):
         print("Utilisateur non trouvé ou erreur.")
 
 # Exemple d'utilisation
-get_user_info("usershhh")
+get_user_info("")
